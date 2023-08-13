@@ -5,10 +5,10 @@ $(function () {
         <div class="dev-nav-container">
           <span>&bullet;</span><span class="dev-nav-title">Dev Navigation</span><span>&bullet;</span>
           <ul>
-            <li><a href="/res/dev/index.html">Home</a></li>
-            <li><a href="/res/dev/about.html">About</a></li>
-            <li><a href="/res/dev/career.html">Career</a></li>
-            <li><a href="/res/dev/pricing.html">Pricing</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="career.html">Career</a></li>
+            <li><a href="pricing.html">Pricing</a></li>
           </ul>
         </div>
       </div>`
